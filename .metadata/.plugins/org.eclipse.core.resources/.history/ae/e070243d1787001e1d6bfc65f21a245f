@@ -1,0 +1,5 @@
+package com.lcit.model;
+
+public class Patient {
+
+}

@@ -1,0 +1,14 @@
+INDEX VERSION 1.134+C:\Users\JohnA\Documents\Lambton College\Fall Term 2023\CSD-3464 Programming Java SE\Java Files\Assignments\Final_Project\.metadata\.plugins\org.eclipse.jdt.core
+12815110.index
+3251071545.index
+1114481964.index
+448366715.index
+3460306173.index
+3949178433.index
+1391932893.index
+1865797976.index
+3037812232.index
+3077962495.index
+7291958.index
+1081682180.index
+4122291330.index

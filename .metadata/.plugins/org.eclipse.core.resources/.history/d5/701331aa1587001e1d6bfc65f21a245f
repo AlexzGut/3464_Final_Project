@@ -1,0 +1,5 @@
+module TermProject_CSD3464 {
+	requires javafx.controls;
+	
+	opens application to javafx.graphics, javafx.fxml;
+}
