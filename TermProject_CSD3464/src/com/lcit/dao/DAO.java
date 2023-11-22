@@ -90,8 +90,8 @@ public class DAO {
 	public int deletRecord(Patient patient) {
 		Connection conn = setUpConnection();
 
-		String delete = "DELETE FROM patients"
-					  + " WHERE patient_id = ?";
+		String delete = "DELETE FROM patients "
+					  + "WHERE patient_id = ?";
 		
 		try {
 			PreparedStatement statement = conn.prepareStatement(delete);
