@@ -11,8 +11,8 @@ public class DAO {
 		Connection conn = null;
 
 		final String USER = "root",
-					 PASSWORD = "730TB9w700.",
-					 DB_URL = "jdbc:mysql://127.0.0.1:3308/patientrecords";
+					 PASSWORD = "",
+					 DB_URL = "jdbc:mysql://127.0.0.1:3307/patientrecords";
 
 		try {
 			// Load the driver

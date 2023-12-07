@@ -18,4 +18,5 @@
     <fullyQualifiedTypeName name="javafx.scene.layout.BorderPane"/>
     <fullyQualifiedTypeName name="javafx.scene.control.cell.TextFieldTableCell"/>
     <fullyQualifiedTypeName name="javafx.event.ActionEvent"/>
+    <fullyQualifiedTypeName name="java.awt.Label"/>
 </qualifiedTypeNameHistroy>
